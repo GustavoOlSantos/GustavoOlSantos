@@ -1,4 +1,4 @@
-# Bem Vindo! Eu sou o Gustavo Santos! ✨
+# Bem Vindo! Meu nome é Gustavo Santos! ✨
 
 <div>
   <a href="https://github.com/GustavoOlSantos"> 
