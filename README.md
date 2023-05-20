@@ -17,7 +17,7 @@
 > 
 > Técnico em Automação Industrial - CEFET/RJ [2019 - 2022]
 > 
-> <a text-decoration='underline' href="https://gustavosantos.infinityfreeapp.com/"> <h2>• Confira meu Portfólio!</h2></a>
+> <h2 text-decoration='none'><a  href="https://gustavosantos.infinityfreeapp.com/">• Confira meu Portfólio!</a></h2>
 
 <br>
 
