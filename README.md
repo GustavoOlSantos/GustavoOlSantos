@@ -4,6 +4,8 @@
   <div align='center'> 
       <a href = "https://www.linkedin.com/in/gustavo-santos-993436218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:santos.gustavo.of@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+    <img src='https://komarev.com/ghpvc/?username=GustavoOlSantos&color=blue' height="28px">
   </div>
   
 
@@ -17,7 +19,7 @@
 > 
 > Técnico em Automação Industrial - CEFET/RJ [2019 - 2022]
 > 
-> <h2 text-decoration='none'><a  href="https://gustavosantos.infinityfreeapp.com/" target="_blank">• Confira meu Portfólio!</a></h2>
+> <h2 text-decoration='none'><a  href="https://gustavosantos.infinityfreeapp.com/" >• Confira meu Portfólio!</a></h2>
 
 <br>
 
