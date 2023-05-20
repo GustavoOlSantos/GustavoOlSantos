@@ -1,5 +1,7 @@
 # Bem Vindo! Meu nome é Gustavo Santos! ✨
 
+Em meados de Março de 2022, decidi construir minha carreira na área de desenvolvimento e desde então, tenho estudado e aprimorado as minhas habilidades para me tornar cada vez mais um profissional competitivo. Atualmente me foco têm sido me aprimorar no Front-End e conhecer seus padrões de desenvolvimento e estudar as tecnologias mais utilizadas no mercado, porém, à parte dos estudos, atuo como desenvolvedor Full Stack na criação de um sistema na empresa em que trabalho.
+
 <div>
   <a href="https://github.com/GustavoOlSantos"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoOlSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
