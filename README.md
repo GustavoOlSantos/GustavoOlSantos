@@ -62,7 +62,7 @@
 
 > <h2>Bancos de Dados</h2>
   <div display="inline-block">
-    <img align="center" alt="Gu-Mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="Gu-Mysql" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </div>
   
 <br>
