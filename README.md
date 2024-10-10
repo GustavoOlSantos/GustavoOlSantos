@@ -44,6 +44,7 @@
     <img align="center" alt="Gu-SpringBoot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
     <img align="center" alt="Gu-PhP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="Gu-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
     <img align="center" alt="Gu-JQuery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
     <img align="center" alt="Gu-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Gu-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
