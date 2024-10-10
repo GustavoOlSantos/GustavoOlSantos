@@ -10,7 +10,7 @@
 
 > <h2>• Sobre mim</h2>
 >
-> Em meados de Março de 2022, decidi construir minha carreira na área de desenvolvimento e desde então, tenho estudado e aprimorado as minhas habilidades para me tornar cada vez mais um profissional competitivo. Atualmente me foco têm sido me aprimorar no Front-End e conhecer seus padrões de desenvolvimento e estudar as tecnologias mais utilizadas no mercado, porém, à parte dos estudos, atuo como desenvolvedor Full Stack na criação de um sistema na empresa em que trabalho.
+> Prazer, sou um desenvolvedor full-stack e estudante de ciência da computação. Atualmente trabalho com Java e Spring, focado no back-end, porém possuo também experiência com front-end e diversas outras linguagens. No meu tempo livre, costumo fazer alguns projetos pequenos para testar e estudar algumas tecnologias. 
 >
 > <h2>• Formação Acadêmica</h2>
 > 
@@ -40,54 +40,69 @@
   
 > <h2>Desenvolvimento</h2>
 <div display="inline-block">
+    <img src="https://skillicons.dev/icons?i=java,spring,php,js,jquery,html,css,python,bootstrap" />
+  <!--
     <img align="center" alt="Gu-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="Gu-SpringBoot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
     <img align="center" alt="Gu-PhP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="Gu-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img src="https://skillicons.dev/icons?i=java,php,js,html,css" />
     <img align="center" alt="Gu-JQuery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
     <img align="center" alt="Gu-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Gu-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
     <img align="center" alt="Gu-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Gu-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  -->
 </div>
 
 <br>
 
 > <h2>Robótica e Automação</h2>
 <div display="inline-block">
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino" />
+
+  <!--
   <img align="center" alt="Gu-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Gu-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Gu-Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  -->
 </div>
   
 <br>
 
 > <h2>Bancos de Dados</h2>
   <div display="inline-block">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <!--
     <img align="center" alt="Gu-Mysql" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="Gu-MongoDB" height="80" width="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-          
+    -->     
   </div>
   
 <br>
 
 > <h2>Sistemas Operacionais</h2>
 <div display="inline-block">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+  
+  <!--
   <img align="center" alt="Gu-Win" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img align="center" alt="Gu-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Gu-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  -->
 </div>
 
 <br>
 
 > <h2> Outras Ferramentas</h2>
 <div display="inline-block">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,github,git" />
+  <!--
   <img align="center" alt="Gu-Vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Gu-Eclipse" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img align="center" alt="Gu-filezilla" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
   <img align="center" alt="Gu-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="Gu-Github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Gu-Postman" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  -->
 </div>
 <br>
