@@ -10,7 +10,7 @@
 
 > <h2>• Sobre mim</h2>
 >
-> Prazer, sou um desenvolvedor full-stack e estudante de ciência da computação. Atualmente trabalho com Java e Spring, focado no back-end, porém possuo também experiência com front-end e diversas outras linguagens. No meu tempo livre, costumo fazer alguns projetos pequenos para testar e estudar algumas tecnologias. 
+> Prazer, sou um desenvolvedor full-stack e estudante de ciência da computação. Atualmente trabalho com Java e Spring, focado no back-end e Testes Automatizados de front-Eend utilizando Cypress, Também experiência com front-end e diversas outras linguagens. No meu tempo livre, costumo fazer alguns projetos pequenos para testar e estudar algumas tecnologias. 
 >
 > <h2>• Formação Acadêmica</h2>
 > 
@@ -40,7 +40,7 @@
   
 > <h2>Desenvolvimento</h2>
 <div display="inline-block">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,js,jquery,html,css,python,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,spring,php,js,jquery,html,css,python,bootstrap,cypress" />
   <!--
     <img align="center" alt="Gu-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="Gu-SpringBoot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
