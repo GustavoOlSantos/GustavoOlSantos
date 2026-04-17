@@ -10,8 +10,12 @@
 
 > <h2>• Sobre mim</h2>
 >
-> Prazer, sou um desenvolvedor full-stack e estudante de ciência da computação. Atualmente trabalho com Java e Spring, focado no back-end e Testes Automatizados de front-Eend utilizando Cypress, Também experiência com front-end e diversas outras linguagens. No meu tempo livre, costumo fazer alguns projetos pequenos para testar e estudar algumas tecnologias. 
+> Prazer, sou desenvolvedor full stack com experiência em desenvolvimento de aplicações web, atuando principalmente com Java e Spring no back-end e testes automatizados de front-end com Cypress.
 >
+> Trabalho na construção e evolução de APIs, implementação de funcionalidades e manutenção de sistemas, sempre com foco em código limpo, performance e qualidade. Também possuo experiência com front-end e outras tecnologias do ecossistema web, o que me permite atuar de forma completa no desenvolvimento das soluções.
+>
+> Já atuei em ambientes corporativos, contribuindo com sustentação e evolução de sistemas em produção, o que fortaleceu minha capacidade de análise, resolução de problemas e adaptação a diferentes contextos e stacks.
+> >
 > <h2>• Formação Acadêmica</h2>
 > 
 > Ciência da Computação - Universidade Veiga de Almeida [2023 - Atual]
