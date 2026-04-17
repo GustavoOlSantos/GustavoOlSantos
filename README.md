@@ -1,26 +1,36 @@
+<h1 align="center">Gustavo Santos</h1>
 
-<h1 align='center'> Bem Vindo! Meu nome é Gustavo Santos! ✨</h1>
+<p align="center">
+  <strong>FULLSTACK DEVELOPER</strong>
+</p>
 
-  <div align='center'> 
-      <a href = "https://www.linkedin.com/in/gustavo-santos-993436218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:santos.gustavo.of@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <img src='https://komarev.com/ghpvc/?username=GustavoOlSantos&color=blue' height="28px">
-  </div>
-  
+<p align="center">
+  │ Java • React • PHP • Testes Automatizados • APIs │
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-Corporate_(BNDES_|_SERPRO)-0A66C2?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/gustavo-santos-993436218/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:santos.gustavo.of@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 > <h2>• Sobre mim</h2>
 >
-> Prazer, sou desenvolvedor full stack com experiência em desenvolvimento de aplicações web, atuando principalmente com Java e Spring no back-end e testes automatizados de front-end com Cypress.
+> Desenvolvedor full stack com foco em back-end utilizando Java e React, atuando no desenvolvimento e evolução de sistemas e testes automatizados com Cypress.
 >
-> Trabalho na construção e evolução de APIs, implementação de funcionalidades e manutenção de sistemas, sempre com foco em código limpo, performance e qualidade. Também possuo experiência com front-end e outras tecnologias do ecossistema web, o que me permite atuar de forma completa no desenvolvimento das soluções.
+> Experiência em ambientes corporativos (BNDES e SERPRO), trabalhando com sistemas em produção, manutenção, implementação de funcionalidades e melhoria contínua.
 >
-> Já atuei em ambientes corporativos, contribuindo com sustentação e evolução de sistemas em produção, o que fortaleceu minha capacidade de análise, resolução de problemas e adaptação a diferentes contextos e stacks.
-> >
-> <h2>• Formação Acadêmica</h2>
-> 
-> Ciência da Computação - Universidade Veiga de Almeida [2023 - Atual]
-> 
-> Técnico em Automação Industrial - CEFET/RJ [2019 - 2022]
+> Perfil orientado à resolução de problemas, com foco em código limpo, performance e entrega de valor.
+>
+> <h2>• O que você vai encontrar aqui</h2>
+>
+> • Projetos full stack com integração front-end e back-end  
+> • Testes automatizados (Cypress)  
+> • Estudos e experimentações com novas tecnologias  
 > 
 > <h2 text-decoration='none'><a  href="https://gustavosantos.infinityfreeapp.com/" >• Confira meu Portfólio!</a></h2>
 
@@ -32,81 +42,22 @@
 
 <div align="center">
   <a href="https://github.com/GustavoOlSantos"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoOlSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOlSantos&layout=compact&langs_count=16&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoOlSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOlSantos&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
 <br>
 
 <h1 align='center'>Minhas Ferramentas</h1>
 
-<br>
-  
-> <h2>Desenvolvimento</h2>
-<div display="inline-block">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,js,jquery,html,css,python,bootstrap,cypress" />
-  <!--
-    <img align="center" alt="Gu-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-    <img align="center" alt="Gu-SpringBoot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-    <img align="center" alt="Gu-PhP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img align="center" alt="Gu-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Gu-JQuery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-    <img align="center" alt="Gu-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Gu-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-    <img align="center" alt="Gu-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Gu-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  -->
-</div>
+> <h2>Front-end</h2>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,jquery" />
 
-<br>
+> <h2>Backend</h2>
+<img src="https://skillicons.dev/icons?i=java,spring,php,python" />
 
-> <h2>Robótica e Automação</h2>
-<div display="inline-block">
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino" />
-
-  <!--
-  <img align="center" alt="Gu-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Gu-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Gu-Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-  -->
-</div>
-  
-<br>
+> <h2>Testes Automatizados</h2>
+<img src="https://skillicons.dev/icons?i=cypress" />
 
 > <h2>Bancos de Dados</h2>
-  <div display="inline-block">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-    <!--
-    <img align="center" alt="Gu-Mysql" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" alt="Gu-MongoDB" height="80" width="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-    -->     
-  </div>
-  
-<br>
-
-> <h2>Sistemas Operacionais</h2>
-<div display="inline-block">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
-  
-  <!--
-  <img align="center" alt="Gu-Win" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img align="center" alt="Gu-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Gu-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  -->
-</div>
-
-<br>
-
-> <h2> Outras Ferramentas</h2>
-<div display="inline-block">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,github,git" />
-  <!--
-  <img align="center" alt="Gu-Vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Gu-Eclipse" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-  <img align="center" alt="Gu-filezilla" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-  <img align="center" alt="Gu-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Gu-Github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="center" alt="Gu-Postman" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  -->
-</div>
-<br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
