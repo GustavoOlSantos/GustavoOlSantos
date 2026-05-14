@@ -35,19 +35,6 @@
 > <h2 text-decoration='none'><a  href="https://gustavosantos.infinityfreeapp.com/" >• Confira meu Portfólio!</a></h2>
 
 <br>
-
-<h1 align='center'>Minhas Estatísticas</h1>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/GustavoOlSantos"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoOlSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOlSantos&layout=compact&langs_count=16&theme=tokyonight" />
-</div>
-
-<br>
-
 <h1 align='center'>Minhas Ferramentas</h1>
 
 > <h2>Front-end</h2>
