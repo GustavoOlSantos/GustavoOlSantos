@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  │ Java • React • PHP • Testes Automatizados • APIs │
+  │ Java • Spring • React • PHP • Docker • CI/CD • Cypress • APIs REST │
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 > • Testes automatizados (Cypress)  
 > • Estudos e experimentações com novas tecnologias  
 > 
-> <h2 text-decoration='none'><a  href="https://gustavosantos.infinityfreeapp.com/" >• Confira meu Portfólio!</a></h2>
+> <h2 text-decoration='none'><a  href="https://gustavoolsantos.vercel.app/" >• Confira meu Portfólio!</a></h2>
 
 <br>
 <h1 align='center'>Minhas Ferramentas</h1>
