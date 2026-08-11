@@ -51,7 +51,7 @@ Estou no 8º período de Ciência da Computação, com formação prévia em Aut
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,jquery" />
+<img src="https://skillicons.dev/icons?i=react,js,typescript,html,css,bootstrap,jquery" />
 
 ### Dados
 
@@ -59,7 +59,7 @@ Estou no 8º período de Ciência da Computação, com formação prévia em Aut
 
 ### Ferramentas & Infra
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,cypress,postman" />
+<img src="https://skillicons.dev/icons?i=docker,cypress,git,github,githubactions,gitlab,linux,postman" />
 
 </div>
 
