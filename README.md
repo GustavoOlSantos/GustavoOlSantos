@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Gustavo%20Santos&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%2B%20Spring%20%2B%20React&descAlignY=58&descSize=20&animation=fadeIn" alt="Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Gustavo%20Santos&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Automation%20%+%20Software%20Quality&descAlignY=58&descSize=20&animation=fadeIn" alt="Banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%2B+React;EXP:+BNDES%2C%20+SERPRO%2C%20+Riex" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=EXP%3A+BNDES+%2B+SERPRO+%2B+RIEX;Stack%3A+Java+%2B+Spring+%2B+React;Cypress+%2B+Docker+%2B+CI%2FCD" alt="Typing SVG" /></a>
 
 <br/>
 
