@@ -6,8 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-993436218/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santos.gustavo.of@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoolsantos/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoolsantos.tech@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-gustavoolsantos.dev.br-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gustavoolsantos.dev.br/)
 
 </div>
@@ -110,8 +110,8 @@ Plataforma full stack de cursos online, construída para praticar arquitetura re
 
 Estou sempre aberto a trocar ideia sobre backend, arquitetura de sistemas ou boas práticas de engenharia.
 
-[![LinkedIn](https://img.shields.io/badge/-Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-993436218/)
-[![Gmail](https://img.shields.io/badge/-Envie_um_e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santos.gustavo.of@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoolsantos/)
+[![Gmail](https://img.shields.io/badge/-Envie_um_e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoolsantos.tech@gmail.com)
 
 <sub>⭐ Se algum projeto aqui te interessou, deixa uma estrela!</sub>
 
