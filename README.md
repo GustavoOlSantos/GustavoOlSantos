@@ -51,7 +51,7 @@ Estou no 8º período de Ciência da Computação, com formação prévia em Aut
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,js,typescript,html,css,bootstrap,jquery" />
+<img src="https://skillicons.dev/icons?i=react,js,typescript,html,css,bootstrap,jquery,wordpress" />
 
 ### Dados
 
