@@ -19,13 +19,13 @@
 ```java
 public class Gustavo implements Developer {
 
-    private final String[] stack = {"Java", "Spring Boot", "React", "Javascript"};
+    private final String[] stack = {"Java", "Spring Boot", "React", "Javascript", "Docker", "RabbitMQ"};
     private final String focus   = "Backend";
     private final String[] experience = {"BNDES", "Serpro", "Riex"};
 
     @Override
     public String[] currentlyLearning() {
-        return new String[]{"Mensageria Kafka e RabbitMQ", "Docker", "CI/CD", "Redis"};
+        return new String[]{"Kafka", "CI/CD", "Redis"};
     }
 }
 ```
@@ -69,19 +69,19 @@ Estou no 8º período de Ciência da Computação, com formação prévia em Aut
 
 ### [SkillUp — Plataforma de Cursos](https://github.com/GustavoOlSantos/plataforma-de-cursos)
 
-Plataforma full stack de cursos online, construída para praticar arquitetura real de produção — não só CRUD.
+Plataforma full stack de cursos online, construída para praticar arquitetura real de produção.
 
-- **Backend:** Spring Boot, JWT, MySQL (Aiven), MongoDB Atlas, Cloudinary
-- **Frontend:** React, com deploy na Vercel (backend no Render)
-- **CI/CD:** GitHub Actions com build paralelo de frontend/backend, serviços efêmeros de MySQL/MongoDB, testes E2E com Cypress e seed automatizado de banco
+- **Backend:** Spring Boot, JWT, MySQL (Aiven), MongoDB Atlas (Deploy Render)
+- **Frontend:** React JS e Cloudnary para hospedagem de imagens (Deploy Vercel)
+- **CI/CD:** GitHub Actions com build paralelo de frontend/backend, serviços efêmeros de MySQL/MongoDB, testes E2E com Cypress e seed automatizado de banco, análise estática de código e verificações de segurança.
 - **Observabilidade:** logging estruturado com Logback + Logstash encoder, com perfis distintos para local e produção
-- **Performance:** eliminação de um problema N+1 que gerava 16+ chamadas individuais à API, consolidado em um único endpoint com `Collectors.teeing`
+- **Performance:** eliminação de um problema N+1 que gerava 16+ chamadas individuais à API, consolidado em um único endpoint com `Collectors.teeing`, estratégia de Cache de aplicação para endpoint recorrentes e que a atualização instantânea não é necessária.
 
 <p>
   <a href="https://github.com/GustavoOlSantos/plataforma-de-cursos">
     <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://skillup-courses.vercel.app/">
+  <a href="https://skillup.gustavoolsantos.dev.br/">
     <img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/GustavoOlSantos/plataforma-de-cursos#readme">
