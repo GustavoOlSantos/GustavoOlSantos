@@ -34,7 +34,7 @@ Desenvolvedor full stack com foco em back-end, atuando com **Java/Spring** no n�
 
 Estou no 8º período de Ciência da Computação, com formação prévia em Automação Industrial — o que me dá uma visão mais próxima de hardware e sistemas embarcados além do desenvolvimento web tradicional. Gosto de resolver problemas de verdade: entender o gargalo, propor a correção certa e entregar algo que funciona.
 
-- Atualmente desenvolvendo o **SkillUp**, uma plataforma de cursos full stack (Spring Boot + React)
+- Atualmente desenvolvendo o **SENTRY**, uma sistema full stack (Spring boot + React) de varredura de infraestrutura, segurança e compliance.
 - Cursando Ciência da Computação (8º período)
 - Background dual: automação industrial + desenvolvimento de software
 - Aberto a oportunidades como desenvolvedor full stack /backend/frontend
@@ -78,13 +78,13 @@ Plataforma full stack de cursos online, construída para praticar arquitetura re
 - **Performance:** eliminação de um problema N+1 que gerava 16+ chamadas individuais à API, consolidado em um único endpoint com `Collectors.teeing`, estratégia de Cache de aplicação para endpoint recorrentes e que a atualização instantânea não é necessária.
 
 <p>
-  <a href="https://github.com/GustavoOlSantos/plataforma-de-cursos">
+  <a href="https://github.com/GustavoOlSantos/skill-up">
     <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://skillup.gustavoolsantos.dev.br/">
     <img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://github.com/GustavoOlSantos/plataforma-de-cursos#readme">
+  <a href="https://github.com/GustavoOlSantos/skill-up#readme">
     <img src="https://img.shields.io/badge/README-Arquitetura_detalhada-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
