@@ -19,13 +19,14 @@
 ```java
 public class Gustavo implements Developer {
 
-    private final String[] stack = {"Java", "Spring Boot", "React", "Javascript", "Docker", "RabbitMQ"};
+    private final String[] stack = {"Java", "Spring Boot", "React", "Javascript", "PHP"};
+    private final String[] tools = {"Cypress", "Docker", "RabbitMQ", "CI/CD"};
     private final String focus   = "Backend";
     private final String[] experience = {"BNDES", "Serpro", "Riex"};
 
     @Override
     public String[] currentlyLearning() {
-        return new String[]{"Kafka", "CI/CD", "Redis"};
+        return new String[]{"Kafka", "Redis"};
     }
 }
 ```
