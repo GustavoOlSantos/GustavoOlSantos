@@ -20,13 +20,13 @@
 public class Gustavo implements Developer {
 
     private final String[] stack = {"Java", "Spring Boot", "React", "Javascript", "PHP"};
-    private final String[] tools = {"Cypress", "Docker", "RabbitMQ", "CI/CD"};
+    private final String[] tools = {"Cypress", "Docker", "RabbitMQ", "Kafka", "CI/CD"};
     private final String focus   = "Backend";
     private final String[] experience = {"BNDES", "Serpro", "Riex"};
 
     @Override
     public String[] currentlyLearning() {
-        return new String[]{"Kafka", "Redis"};
+        return new String[]{"Redis", "Microservices"};
     }
 }
 ```
@@ -48,19 +48,25 @@ Estou no 8º período de Ciência da Computação, com formação prévia em Aut
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring,php,python" />
+<img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,kafka,php,python" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,js,typescript,html,css,bootstrap,jquery,wordpress" />
+<img src="https://skillicons.dev/icons?i=react,js,typescript,cypress,bootstrap" />
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,jquery,wordpress" />
 
 ### Dados
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+
+### CI/CD
+
+<img src="https://skillicons.dev/icons?i=github,githubactions,gitlab" />
 
 ### Ferramentas & Infra
 
-<img src="https://skillicons.dev/icons?i=docker,cypress,git,github,githubactions,gitlab,linux,postman" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,postman" />
 
 </div>
 
@@ -68,7 +74,7 @@ Estou no 8º período de Ciência da Computação, com formação prévia em Aut
 
 ## Projeto em destaque
 
-### [SkillUp — Plataforma de Cursos](https://github.com/GustavoOlSantos/plataforma-de-cursos)
+### [SkillUp — Plataforma de Cursos](https://github.com/GustavoOlSantos/skill-up)
 
 Plataforma full stack de cursos online, construída para praticar arquitetura real de produção.
 
@@ -112,7 +118,7 @@ Plataforma full stack de cursos online, construída para praticar arquitetura re
 Estou sempre aberto a trocar ideia sobre backend, arquitetura de sistemas ou boas práticas de engenharia.
 
 [![LinkedIn](https://img.shields.io/badge/-Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoolsantos/)
-[![Gmail](https://img.shields.io/badge/-Envie_um_e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoolsantos.tech@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Envie_um_e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@gustavoolsantos.dev.br)
 
 <sub>⭐ Se algum projeto aqui te interessou, deixa uma estrela!</sub>
 
