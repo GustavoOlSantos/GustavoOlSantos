@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoolsantos/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoolsantos.tech@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@gustavoolsantos.dev.br)
 [![Portfólio](https://img.shields.io/badge/Portfólio-gustavoolsantos.dev.br-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gustavoolsantos.dev.br/)
 
 </div>
