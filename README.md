@@ -19,26 +19,25 @@
 ```java
 public class Gustavo implements Developer {
 
-    private final String[] stack = {"Java", "Spring Boot", "React", "Javascript", "PHP"};
-    private final String[] tools = {"Cypress", "Docker", "RabbitMQ", "Kafka", "CI/CD"};
-    private final String focus   = "Backend";
+    private final String[] stack = {"Java", "Spring Boot", "React", "JavaScript", "PHP"};
+    private final String[] tools = {"VScode", "Cypress", "Docker", "RabbitMQ", "CI/CD", "AI"};
+    private final String focus   = "Backend-focused Full Stack";
     private final String[] experience = {"BNDES", "Serpro", "Riex"};
 
     @Override
     public String[] currentlyLearning() {
-        return new String[]{"Redis", "Microservices"};
+        return new String[]{"Microservices"};
     }
 }
 ```
 
-Desenvolvedor full stack com foco em back-end, atuando com **Java/Spring** no núcleo dos sistemas e **React** no front-end. Tenho passagem por ambientes corporativos — **BNDES**, **Serpro** e **Riex** — onde trabalhei com manutenção de sistemas em produção, automações em Java, testes E2E com Cypress em pipelines GitLab e administração de servidores Linux.
+Desenvolvedor Full Stack com foco em Back-end Java, atuando no desenvolvimento e manutenção de aplicações corporativas, APIs REST e integrações entre sistemas. Tenho experiência com Java, Spring Boot, Spring Security, JPA/Hibernate e React, além de automação de processos, testes automatizados e CI/CD.
 
-Estou no 8º período de Ciência da Computação, com formação prévia em Automação Industrial — o que me dá uma visão mais próxima de hardware e sistemas embarcados além do desenvolvimento web tradicional. Gosto de resolver problemas de verdade: entender o gargalo, propor a correção certa e entregar algo que funciona.
+Atualmente, trabalho com desenvolvimento de sistemas no BNDES, após experiências no SERPRO e em projetos de desenvolvimento e automação na Riex. Nessas experiências, participei da manutenção de sistemas em produção, otimização de consultas SQL, integração de serviços, automação de processos e implementação de testes E2E com Cypress.
 
-- Atualmente desenvolvendo o **SENTRY**, uma sistema full stack (Spring boot + React) de varredura de infraestrutura, segurança e compliance.
-- Cursando Ciência da Computação (8º período)
-- Background dual: automação industrial + desenvolvimento de software
-- Aberto a oportunidades como desenvolvedor full stack /backend/frontend
+Sou estudante de Ciência da Computação na Universidade Veiga de Almeida e técnico em Automação Industrial pelo CEFET/RJ. Tenho interesse em engenharia de software, arquitetura de sistemas e desenvolvimento de soluções que resolvam problemas reais.
+
+Atualmente, desenvolvo projetos próprios utilizando Java, Spring Boot e React, com destaque para o Sentry e o Skill Up.
 
 <br/>
 
@@ -46,27 +45,12 @@ Estou no 8º período de Ciência da Computação, com formação prévia em Aut
 
 <div align="left">
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,kafka,php,python" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,js,typescript,cypress,bootstrap" />
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,jquery,wordpress" />
-
-### Dados
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-
-### CI/CD
-
-<img src="https://skillicons.dev/icons?i=github,githubactions,gitlab" />
-
-### Ferramentas & Infra
-
-<img src="https://skillicons.dev/icons?i=docker,git,linux,postman" />
+### Backend  <img src="https://skillicons.dev/icons?i=java,spring,php" />
+### Frontend <img src="https://skillicons.dev/icons?i=react,js,bootstrap,html,css,wordpress" />
+### Bancos de Dados <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+### Mensageria <img src="https://skillicons.dev/icons?i=rabbitmq" />
+### Testes     <img src="https://skillicons.dev/icons?i=cypress" />
+### DevOps e ferramentas <img src="https://skillicons.dev/icons?i=docker,git,linux,github,githubactions,gitlab" />
 
 </div>
 
@@ -79,10 +63,10 @@ Estou no 8º período de Ciência da Computação, com formação prévia em Aut
 Plataforma full stack de cursos online, construída para praticar arquitetura real de produção.
 
 - **Backend:** Spring Boot, JWT, MySQL (Aiven), MongoDB Atlas (Deploy Render)
-- **Frontend:** React JS e Cloudnary para hospedagem de imagens (Deploy Vercel)
+- **Frontend:** React JS e Cloudinary para hospedagem de imagens (Deploy Vercel)
 - **CI/CD:** GitHub Actions com build paralelo de frontend/backend, serviços efêmeros de MySQL/MongoDB, testes E2E com Cypress e seed automatizado de banco, análise estática de código e verificações de segurança.
 - **Observabilidade:** logging estruturado com Logback + Logstash encoder, com perfis distintos para local e produção
-- **Performance:** eliminação de um problema N+1 que gerava 16+ chamadas individuais à API, consolidado em um único endpoint com `Collectors.teeing`, estratégia de Cache de aplicação para endpoint recorrentes e que a atualização instantânea não é necessária.
+- **Performance:** identificação e correção de um gargalo que gerava mais de 16 requisições individuais para carregar avaliações, substituindo-as por uma consulta consolidada em um único endpoint. Utilização de `Collectors.teeing` para processamento combinado dos dados e cache de aplicação em endpoints com baixa necessidade de atualização em tempo real.
 
 <p>
   <a href="https://github.com/GustavoOlSantos/skill-up">
