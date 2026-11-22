@@ -56,16 +56,40 @@ Atualmente, desenvolvo projetos próprios utilizando Java, Spring Boot e React, 
 
 <br/>
 
-## Projeto em destaque
+## Projetos em destaque
 
-### [SkillUp — Plataforma de Cursos](https://github.com/GustavoOlSantos/skill-up)
+### [Sentry — Plataforma de Gestão de Vulnerabilidades](https://github.com/GustavoOlSantos/sentry)
 
-Plataforma full stack de cursos online, construída para praticar arquitetura real de produção.
+Aplicação full stack voltada à descoberta de ativos e serviços de rede, identificação de vulnerabilidades e avaliação de configurações de segurança.
 
-- **Backend:** Spring Boot, JWT, MySQL (Aiven), MongoDB Atlas (Deploy Render)
-- **Frontend:** React JS e Cloudinary para hospedagem de imagens (Deploy Vercel)
-- **CI/CD:** GitHub Actions com build paralelo de frontend/backend, serviços efêmeros de MySQL/MongoDB, testes E2E com Cypress e seed automatizado de banco, análise estática de código e verificações de segurança.
-- **Observabilidade:** logging estruturado com Logback + Logstash encoder, com perfis distintos para local e produção
+<img src="./home.png" height="300px"/>
+
+- **Backend:** Java e Spring Boot, com APIs REST para gerenciamento de varreduras, ativos e findings.
+- **Varredura e análise:** integração com Nmap para descoberta de hosts e serviços, consulta à base NVD para identificação de vulnerabilidades associadas a CVEs e verificações automatizadas de configurações.
+- **Mensageria:** RabbitMQ para processamento assíncrono das solicitações de varredura.
+- **Frontend:** React para visualização e gerenciamento dos resultados.
+- **Infraestrutura:** Docker e Docker Compose para execução dos serviços e ambiente de laboratório.
+
+<p>
+  <a href="https://github.com/GustavoOlSantos/sentry">
+    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/GustavoOlSantos/sentry#readme">
+    <img src="https://img.shields.io/badge/README-Documentação-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
+
+### [SkillUp — Plataforma de Cursos Online](https://github.com/GustavoOlSantos/skill-up)
+
+Plataforma EAD full stack com funcionalidades de gerenciamento de cursos, matrículas, reprodução de aulas e avaliações de usuários.
+
+<img src="./skill-up.png" height="300px"/>
+
+- **Backend:** Java 21 e Spring Boot, com APIs REST, autenticação e autorização utilizando Spring Security e JWT.
+- **Persistência:** MySQL para cursos, categorias e compras; MongoDB para avaliações.
+- **Frontend:** React e Cloudinary para hospedagem de imagens.
+- **CI/CD:** GitHub Actions com build paralelo de frontend e backend, testes E2E com Cypress, seed automatizado de banco de dados, análise estática e verificações de segurança.
+- **Observabilidade:** logging estruturado com Logback e Logstash Encoder, com configurações específicas para os ambientes local e produção.
 - **Performance:** identificação e correção de um gargalo que gerava mais de 16 requisições individuais para carregar avaliações, substituindo-as por uma consulta consolidada em um único endpoint. Utilização de `Collectors.teeing` para processamento combinado dos dados e cache de aplicação em endpoints com baixa necessidade de atualização em tempo real.
 
 <p>
